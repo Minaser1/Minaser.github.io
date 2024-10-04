@@ -1,0 +1,114 @@
+h1 {
+
+	font-size: 100px;
+	text-align: center;
+	background-color: #ffde8a9e;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-family: "Helvetica";
+}
+
+#mainImage {
+
+	display: block;
+	margin:auto;
+	width: 60%;
+	background-color: #cccccc;
+
+}
+
+.second {
+	display: block;
+	margin:auto;
+	width: 50%;
+	background-color: whitesmoke;
+	margin-bottom: 60px;
+
+}
+h2 {
+
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: px;
+	margin-top: 	px;
+	background-color: #cccccc;
+
+
+}
+
+p {
+
+	font-size: 35px;
+	text-align: center;
+	margin-bottom: 1px;
+
+}
+
+
+p.description {
+	font-size: 25px;
+	text-align: center;
+/* below code, giving a litte space between paragraphs */
+	margin-top: 10px;  
+/*	limiting the width, to not go over and keep the text centered  */
+	max-width: 70%;            
+	margin-left: auto;
+	margin-right: auto;
+/*spacing between text	*/
+	line-height: 1.5;
+	margin-bottom: 80px;
+	font-family: "helvetica";
+	background-color: #f3f3f3;
+
+
+}
+
+h3 {
+	margin: 10px auto;
+	max-width: 50%;
+	font-size: 32px;
+	
+
+}
+
+ul {
+	max-width:50%;
+	margin: 10px auto;
+	font-size: 20px;
+	line-height: 1.6;
+	background-color: whitesmoke;
+	margin-bottom: 40px;
+	font-family: "verdana";
+
+}
+
+h4 {
+	margin: 10px auto;
+	max-width: 50%;
+	font-size: 32px;
+	
+
+}
+
+ol {
+	max-width:50%;
+	margin: 10px auto;
+	font-size: 20px;
+	line-height: 1.6;
+	background-color: whitesmoke;
+	margin-bottom: 40px;
+	font-family: "verdana";
+}
+
+.endImage {
+	display: block;
+	margin:auto;
+	width: 50%;
+}
+.end {
+	font-size: 100px;
+	text-align: center;
+	margin: 50px;
+
+
+}
